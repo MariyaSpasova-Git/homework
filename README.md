@@ -1,2 +1,1 @@
-# Homework
-Repository for my homework
+This is a repository for my homework for the Software Technologies course

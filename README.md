@@ -1,1 +1,1 @@
-This is a repository for my homework for the Software Technologies course
+This is a repository for my homework for the Software Technologies course.

@@ -1,0 +1,14 @@
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\bin\Debug\net8.0\04.FoodDelivery.exe
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\bin\Debug\net8.0\04.FoodDelivery.deps.json
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\bin\Debug\net8.0\04.FoodDelivery.runtimeconfig.json
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\bin\Debug\net8.0\04.FoodDelivery.dll
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\bin\Debug\net8.0\04.FoodDelivery.pdb
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\obj\Debug\net8.0\04.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\obj\Debug\net8.0\04.FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\obj\Debug\net8.0\04.FoodDelivery.AssemblyInfo.cs
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\obj\Debug\net8.0\04.FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\obj\Debug\net8.0\04.FoodDelivery.dll
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\obj\Debug\net8.0\refint\04.FoodDelivery.dll
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\obj\Debug\net8.0\04.FoodDelivery.pdb
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\obj\Debug\net8.0\04.FoodDelivery.genruntimeconfig.cache
+C:\Users\MaraE\source\repos\QA_Programming_Fundamentals\01.DataTypesVariablesAndKeyConcepts-Exercise\04.FoodDelivery\obj\Debug\net8.0\ref\04.FoodDelivery.dll

@@ -1,0 +1,37 @@
+﻿double firstNumber = double.Parse(Console.ReadLine());
+double secondNumber = double.Parse(Console.ReadLine());
+double thirdNumber = double.Parse(Console.ReadLine());
+
+int numberOfNegativeSigns = 0;
+string productSign = "";
+
+if (firstNumber == 0 || secondNumber == 0 || thirdNumber == 0)
+{
+    productSign = "zero";
+}
+else
+{
+    if (firstNumber < 0)
+    {
+        numberOfNegativeSigns++;
+    }
+    if (secondNumber < 0)
+    {
+        numberOfNegativeSigns++;
+    }
+    if (thirdNumber < 0)
+    {
+        numberOfNegativeSigns++;
+    }
+}
+
+if (productSign != "zero" && numberOfNegativeSigns % 2 == 0)
+{
+    productSign = "positive";
+}
+else
+{
+    productSign = "negative";
+}
+
+Console.WriteLine(productSign);

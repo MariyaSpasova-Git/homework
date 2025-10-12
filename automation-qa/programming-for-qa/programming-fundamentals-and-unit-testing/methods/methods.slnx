@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="01.VowelsCount/01.VowelsCount.csproj" />
+  <Project Path="02.factorialDivision/02.factorialDivision.csproj" />
+  <Project Path="03.MultiplicationSign/03.MultiplicationSign.csproj" />
+  <Project Path="04.PasswordValidator/04.PasswordValidator.csproj" />
+  <Project Path="05.MultiplyEvensByOdds/05.MultiplyEvensByOdds.csproj" />
+  <Project Path="06.Orders/06.Orders.csproj" />
+  <Project Path="11-Exercise-Methods/11-Exercise-Methods.csproj" />
+</Solution>

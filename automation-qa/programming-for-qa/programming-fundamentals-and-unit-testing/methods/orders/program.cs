@@ -1,31 +1,4 @@
-﻿//string product = Console.ReadLine();
-//int quantity = int.Parse(Console.ReadLine());
-
-//PrintOrderPrice(product, quantity);
-
-//static void PrintOrderPrice (string product, int quantity)
-//{
-//    double totalPrice = GetProductUnitPrice(product) * quantity;
-//    Console.WriteLine($"{totalPrice:F2}");
-//}
-
-//static double GetProductUnitPrice(string product)
-//{
-//    double productUnitPrice = product switch
-//    {
-//       "coffee" => 1.50,
-//       "water" => 1.00,
-//       "coke" => 1.40,
-//       "snacks" => 2.00,
-//       _ => 0.00
-//    };
-
-//    return productUnitPrice;
-//}
-
-// teacher's solution
-
-namespace _06.Orders
+﻿namespace orders
 {
     internal class Program
     {

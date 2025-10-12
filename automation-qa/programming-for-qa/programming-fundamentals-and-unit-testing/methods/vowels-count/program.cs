@@ -3,15 +3,6 @@
 int result = PrintVowelsCount(text);
 Console.WriteLine(result);
 
-//Console.WriteLine(CountVowels(text));
-//static int CountVowels (string text)
-//{
-//    string vowelSet = "aeiouAEIOU";
-
-//    return text.Count(c => vowelSet.Contains(c));
-//}
-
-//teacher's solution
 static int PrintVowelsCount (string text)
 {
     int counter = 0;

@@ -1,13 +1,15 @@
 ﻿int[] array1 = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
 int[] array2 = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
 
-foreach (var item in array1)
+foreach (int itemArray1 in array1)
 {
-	if (array2.Contains(item))
+	foreach (int itemArray2 in array2)
 	{
-		Console.Write(item + " "); 
+		if (itemArray1 == itemArray2)
+		{
+			Console.Write(itemArray1 + " "); 
+		}
 	}
 }
-
 
 
